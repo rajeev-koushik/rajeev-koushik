@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajeev Koushik Y G
 ==========================================================================================================================================
 
-Software Development Engineer
+Developer
 -----------------------------
 
 I'm an aspiring web developer with experience in Python. I am constantly on the lookout for learning opportunities that can help grow my skillset while giving back to the community.
