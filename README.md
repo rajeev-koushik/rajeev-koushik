@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ---------
 
-I'm a web developer with experience in Python. I am constantly on the lookout for learning opportunities that can help grow my skillset while giving back to the community.
+I'm a developer with experience in Python. I am constantly on the lookout for learning opportunities that can help grow my skillset while giving back to the community.
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [rajeevkoushikyg@gmail.com](mailto:rajeevkoushikyg@gmail.com)
