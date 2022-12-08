@@ -8,8 +8,8 @@ I'm a developer with experience in Python. I am constantly on the lookout for le
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [rajeevkoushikyg@gmail.com](mailto:rajeevkoushikyg@gmail.com)
-* 🧠  I'm learning Django and Flask
-* 🤝  I'm open to collaborating on projects related to Python development
+* 🧠  I'm learning Python and JavaScript
+* 🤝  I'm open to collaborating on projects related to web development
 * ⚡  I enjoy photography and am into fitness
 
 ### Skills
