@@ -8,7 +8,6 @@ I'm a developer with experience in Python and JavaScript. Currently, trying to l
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [rajeevkoushikyg@gmail.com](mailto:rajeevkoushikyg@gmail.com)
-* 🧠  I'm learning Python and JavaScript
 * 🤝  I'm open to collaborating on projects related to web development
 * ⚡  I enjoy photography and am into fitness
 
